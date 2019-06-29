@@ -1,1 +1,2 @@
 # Clustering-RIM
+This work propose a method for making requirements interaction management automatic. To do so, we took advantage of information retrieval methods to gain useful information out of raw requirements which was accordingly used by clustering methods to find the structure of interactions between requirements. The results show that our approach can deliver stable clusters of requirements that interact similarly.
