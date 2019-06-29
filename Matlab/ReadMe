@@ -1,0 +1,3 @@
+We used clustering methods to find the structure of interactions between requirements. Two methods has been used for group requirements as following:
+1. K-Means clustering: The first method is k-means clustering since it is simple to implement and often works well.
+2. Hierarchical clustering: Hierarchical clustering is the second clustering method that we applied to our dataset, which builds a hierarchy of clusters.
