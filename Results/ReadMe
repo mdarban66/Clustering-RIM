@@ -1,0 +1,9 @@
+Figure 2 shows the result of hierarchical clustering on our dataset.
+The results of the two different clustering methods, that have been used to group requirements by means of term frequency-inverse document frequency and similarity measures, illustrates that k-means clustering performed well with our small dataset [Figure 4].
+By way of illustration, the small dataset has been shaped by increasing the tf-idf weights for resources which are important at a time. For instance, if obtaining the requirements that are interacting through workgroup resource is the main focus, the tf-idf values of the term workgroup is increased. We used the weight update formula of perceptron in neural network to change the tf-idf weights as:
+w=w+n(y-y')x
+Figure 3 shows how increased tf-idf weights has separated the requirements interacting through different resources.
+
+
+
+ 

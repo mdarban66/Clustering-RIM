@@ -1,0 +1,3 @@
+We took advantage of Information Retrieval methods to gain useful information out of raw requirements.
+
+The dataset includes forty seven requirements which are the corresponding user stories. First, we calculated the term frequency-inverse document frequency values of all existed terms in requirements for all user stories. In the same way, we removed stop words and applied a stemming algorithm to obtain the root of our English terms, using Porter’s algorithm [See refrence in Report.pdf].

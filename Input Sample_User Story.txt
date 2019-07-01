@@ -1,0 +1,6 @@
+
+US1: Subscribe to work
+
+As a: user
+I want to: subscribe to work objects and workgroups I have access to
+So that: I can be updated on changes made to that content
