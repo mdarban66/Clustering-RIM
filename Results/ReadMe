@@ -1,0 +1,1 @@
+The results of the two different clustering methods, that have been used to group requirements by means of term frequency-inverse document frequency and similarity measures, illustrates that k-means clustering performed well with our small dataset.
